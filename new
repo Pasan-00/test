@@ -1,0 +1,10 @@
+# File: hello_world.py
+# Purpose: A simple program to print "Hello, World!" to the console
+
+def main():
+    # Print the message
+    print("Hello, World!")
+
+# Entry point of the program
+if __name__ == "__main__":
+    main()
